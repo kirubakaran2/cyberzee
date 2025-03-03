@@ -23,7 +23,7 @@ function Root() {
         </a>
         <img src="/logo2.png" style={{ width: '40px', height: '40px',position: 'absolute', bottom: 35, left: 50, fontSize: '13px',borderRadius: '50%', marginRight: '5px' }} />
 
-        <div style={{ position: 'absolute', bottom: 40, right: 40, fontSize: '13px' }}>16/03/2024</div>
+        <div style={{ position: 'absolute', bottom: 40, right: 40, fontSize: '13px' }}>14/03/2025</div>
         <a style={{ position: 'absolute', top: 40, left: 40, fontSize: '13px' }} href="#">
           MITILENCE
         </a>
