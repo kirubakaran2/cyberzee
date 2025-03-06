@@ -64,7 +64,7 @@ function Card({ url, isMobile, ...props }) {
   const { camera } = useThree();
 
   const handleClick = () => {
-    window.location.href = 'https://forms.gle/jAG7WGrGiWFQLVSz9';
+    window.location.href = 'https://docs.google.com/forms/d/e/1FAIpQLSf-Xncf5p6drj_gYLSXKTQCgZpGmioMDrBC3QMSs6qYzLo2XA/viewform?usp=dialog';
   };
 
   const pointerOver = (e) => (e.stopPropagation(), hover(true));
