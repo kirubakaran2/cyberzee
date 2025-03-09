@@ -40,7 +40,7 @@ function Rig(props) {
   return <group ref={ref} {...props} />;
 }
 
-function Carousel({ radius = 1.4, count = 8, isMobile }) {
+function Carousel({ radius = 1.4, count = 7, isMobile }) {
   const adjustedRadius = isMobile ? radius * 0.6 : radius; // Smaller radius for mobile
 
   return Array.from({ length: count }, (_, i) => (
